@@ -1,0 +1,28 @@
+.title {
+    text-align: center;
+    color: blue;
+    font-size: 36px;
+}
+.song {
+    text-align: center;
+    color: green;
+    font-size: 30px;
+
+}
+.text { 
+    display: flex;
+    
+    text-align: center;
+    padding: 20px;
+    color: red;
+    font-size: 24px;
+  
+}
+
+body{
+    display: flex;
+ justify-content: center;        /* Centrowanie w poziomie */
+    align-items: center;    
+    flex-direction: column;
+
+}
